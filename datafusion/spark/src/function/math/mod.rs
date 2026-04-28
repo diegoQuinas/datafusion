@@ -25,6 +25,7 @@ pub mod modulus;
 pub mod negative;
 pub mod rint;
 pub mod round;
+mod scale;
 pub mod trigonometry;
 pub mod unhex;
 pub mod width_bucket;
